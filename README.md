@@ -1,5 +1,5 @@
 ### Hi there 👋
-코드를 짜기 위해 천재일 필요는 없다! 그냥 시작하라.
+<!---코드를 짜기 위해 천재일 필요는 없다! 그냥 시작하라.--->
 
 <!--
 **sunoo0210/sunoo0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
