@@ -22,32 +22,32 @@
 
 <div align="center">
     <p>💬 languages 💬<p>
-    <img src="https://skillicons.dev/icons?i=js,ts,py,dart,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,dart" />
 </div>
 
 <div align="center">
     <p>🔥 Frameworks 🔥</p>
-    <img src="https://skillicons.dev/icons?i=nestjs,nextjs,flutter" />
+    <img src="https://skillicons.dev/icons?i=ros,nestjs,nextjs,flutter" />
 </div>
 
 <div align="center">
     <p>💾 Databases 💾</p>
-    <img src="https://skillicons.dev/icons?i=mysql,redis,postgres,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,postgres,firebase" />
 </div>
 
 <div align="center">
     <p>🖥️ Server 🖥️</p>
-    <img src="https://skillicons.dev/icons?i=docker,nginx,ubuntu,aws,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,ubuntu,linux,nginx,aws" />
 </div>
 
 <div align="center">
     <p>📚 Libraries 📚</p>
-    <img src="https://skillicons.dev/icons?i=prisma,react,tailwind,styledcomponents,selenium,opencv,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=opencv,tensorflow,selenium,prisma,react,tailwind,styledcomponents" />
 </div>
 
 <div align="center">
     <p>🛠 Tools 🛠</p>
-    <img src="https://skillicons.dev/icons?i=vscode,yarn,github,postman,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,yarn,postman" />
 </div>
   
 ---
