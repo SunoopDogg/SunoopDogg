@@ -25,7 +25,7 @@
 ### 🎓 Education & Research
 - **AIRO Lab, Hanyang University - Researcher** _(2025.01 ~ Present)_
 - **Hanyang University – Master of Smart Construction Engineering** _(2025.03 ~ Present)_
-- **Singularity Inc., Ltd. - CTO** _(2024.02 ~ 2024.07)_
+- **Singularity Inc. - CTO** _(2024.02 ~ 2024.07)_
 - **Shinsung ICT Co., Ltd. - Associate Researcher** _(2023.01 ~ 2024.10)_
 - **Hanyang University ERICA – Bachelor of Smart ICT Convergence** _(2020.03 ~ 2025.02)_
 
