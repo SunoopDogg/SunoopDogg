@@ -7,24 +7,31 @@
 </h3>
 
 ---
+
 &nbsp;
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-- ### Languages
+- Languages
+
   <img src="https://skillicons.dev/icons?i=py,cpp,ts,js"/>
 
-- ### Frameworks & Libraries
+- Frameworks & Libraries
+
   <img src="https://skillicons.dev/icons?i=ros,pytorch,opencv,nodejs,nestjs,react,nextjs,docker"/>
 
+<br/>
 
-<!-- ## 🧩 Algorithm
+### 🎓 Education & Research
+- **AIRO Lab, Hanyang University - Researcher** _(2025.01 ~ Present)_
+- **Hanyang University – Master of Smart Construction Engineering** _(2025.03 ~ Present)_
+- **Singularity Inc., Ltd. - CTO** _(2024.02 ~ 2024.07)_
+- **Shinsung ICT Co., Ltd. - Associate Researcher** _(2023.01 ~ 2024.10)_
+- **Hanyang University ERICA – Bachelor of Smart ICT Convergence** _(2020.03 ~ 2025.02)_
 
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunoo0210" alt="Solved.ac Profile"/>
-</p> -->
+<br/>
 
-## 📫 Contact
+### 📫 Contact
 
 <div align="center">
 
